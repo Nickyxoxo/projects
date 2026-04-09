@@ -38,7 +38,7 @@ export function SetupScreen({ onStartGame }: SetupScreenProps) {
       <div className="max-w-2xl mx-auto">
         {/* 标题 */}
         <div className="text-center mb-8">
-          <h1 className="text-4xl font-bold bg-gradient-to-r from-pink-500 to-purple-500 bg-clip-text text-transparent mb-2">
+          <h1 className="text-4xl font-bold text-blue-600 mb-2">
             哄哄模拟器
           </h1>
           <p className="text-gray-600">
